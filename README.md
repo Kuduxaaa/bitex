@@ -12,7 +12,7 @@ The **Bitex** Python module provides an easy and convenient way to interact with
 To install the **Bitex** module, you can use the following `pip` command:
 
 ```bash
-pip install bitex
+pip install bitex-blockchain-explorer
 ```
 
 ## Usage

@@ -6,13 +6,13 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name = 'bitex-blockchain-explorer',
-    version = '0.1.0',
+    version = '0.1.1',
     author = 'Nika Kudukhashvili',
     author_email = 'nikakuduxashvili0@gmail.com',
     description = 'A Python module for interacting with blockchain data using the Bitex blockchain explorer',
     long_description = long_description,
     long_description_content_type = 'text/markdown',
-    url = 'https://github.com/Kuduxaaa/bitex',
+    url = 'https://github.com/Kuduxaaa/bitex-blockchain-explorer',
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
